@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TeddyAndKitty</string>
+
+    <string name="primary_to_third_party_title">Richard Paid</string>
+    <string name="primary_to_third_party_desc">Richard -> Third Party</string>
+    <string name="secondary_to_third_party_title">Wanyin Paid</string>
+    <string name="secondary_to_third_party_desc">Wanyin -> Third Party</string>
+    <string name="secondary_to_primary_title">Wanyin Deposit</string>
+    <string name="secondary_to_primary_desc">Wanyin -> Richard</string>
+    <string name="primary_to_secondary_title">Richard Transfer</string>
+    <string name="primary_to_secondary_desc">Richard -> Wanyin</string>
+    <string name="third_party_to_primary_title">Richard Received</string>
+    <string name="third_party_to_primary_desc">Third Party -> Richard</string>
+    <string name="third_party_to_secondary_title">Wanyin Received</string>
+    <string name="third_party_to_secondary_desc">Third Party -> Wanyin</string>
+
+    <string name="add_edit_transaction_create_primary_to_third_party_title">Create Richard Paid</string>
+    <string name="add_edit_transaction_create_secondary_to_third_party_title">Create Wanyin Paid</string>
+    <string name="add_edit_transaction_create_secondary_to_primary_title">Create Wanyin Deposit</string>
+    <string name="add_edit_transaction_create_primary_to_secondary_title">Create Richard Transfer</string>
+    <string name="add_edit_transaction_create_third_party_to_primary_title">Create Richard Received</string>
+    <string name="add_edit_transaction_create_third_party_to_secondary_title">Create Wanyin Received</string>
+    <string name="add_edit_transaction_update_primary_to_third_party_title">Update Richard Paid</string>
+    <string name="add_edit_transaction_update_secondary_to_third_party_title">Update Wanyin Paid</string>
+    <string name="add_edit_transaction_update_secondary_to_primary_title">Update Wanyin Deposit</string>
+    <string name="add_edit_transaction_update_primary_to_secondary_title">Update Richard Transfer</string>
+    <string name="add_edit_transaction_update_third_party_to_primary_title">Update Richard Received</string>
+    <string name="add_edit_transaction_update_third_party_to_secondary_title">Update Wanyin Received</string>
+    <string name="add_edit_transaction_transaction_date_label">Transaction Date</string>
+    <string name="add_edit_transaction_venue_label">Venue</string>
+    <string name="add_edit_transaction_product_label">Product</string>
+    <string name="add_edit_transaction_third_party_name_label">Third Party Name</string>
+    <string name="add_edit_transaction_amount_label">Amount</string>
+    <string name="add_edit_transaction_remark_label">Remark</string>
+    <string name="add_edit_transaction_optional_placeholder">* Optional</string>
+    <string name="add_edit_transaction_required_placeholder">* Required</string>
+    <string name="add_edit_transaction_save_button">Save Transaction</string>
+    <string name="add_edit_transaction_amount_blank_error">* Amount cannot be blank</string>
+    <string name="add_edit_transaction_amount_double_error">* This is not a valid amount</string>
+    <string name="add_edit_transaction_amount_negative_error">* Amount cannot be 0 or negative</string>
+    <string name="add_edit_transaction_at_least_one_detail_error">* Must provide at least one detail</string>
+
+    <string name="transaction_log_title">Transaction Log Report</string>
+    <string name="transaction_log_desc">Sorted by Latest Transaction Date</string>
+    <string name="transaction_log_deposit_balance_label">Deposit Balance</string>
+    <string name="transaction_log_primary_balance_label">Richard Balance</string>
+    <string name="transaction_log_secondary_balance_label">Wanyin Balance</string>
+    <string name="transaction_log_remark_label">Remark:</string>
+    <string name="transaction_log_db_label">DB:</string>
+    <string name="transaction_log_pb_label">RB:</string>
+    <string name="transaction_log_sb_label">WB:</string>
+
+    <string name="transaction_maint_title">Manage All Transactions</string>
+    <string name="transaction_maint_desc">Authorized Personnel Only</string>
+    <string name="transaction_maint_dialog_delete_selected_title">Delete Selected Transactions</string>
+    <string name="transaction_maint_dialog_delete_single_title">Delete Single Transaction</string>
+    <string name="transaction_maint_dialog_proceed_desc">Are you sure you want to proceed?</string>
+    <string name="transaction_maint_delete_button">Delete Selected Transactions</string>
+    <string name="transaction_maint_no_record_info">Nothing to show here</string>
+</resources>
